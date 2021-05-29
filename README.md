@@ -16,8 +16,10 @@ For zsh-local:
 ## 3. installation
 after installed all the dependencies:
 
+- set zsh as default shell
 - replace your `~/.zshrc` and `~/.tmux.conf`;
 - run `exec zsh`
+- put nord-tmux in `~/.tmux`
 - run `source-file ~/.tmux.conf`
 - set tmux as your default shell
 
