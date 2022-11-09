@@ -1,5 +1,5 @@
 # For zplug:
-export ZPLUG_HOME=/opt/homebrew/opt/zplug
+export ZPLUG_HOME=~/.zplug
 source $ZPLUG_HOME/init.zsh
 # Auto-complete plugins
 zplug "zsh-users/zsh-autosuggestions" 
